@@ -1,0 +1,12 @@
+[submodule "libs/di"]
+	path = libs/di
+	url = git@github.com:krzysztof-jusiak/di.git
+[submodule "libs/msm-lite"]
+	path = libs/msm-lite
+	url = git@github.com:krzysztof-jusiak/msm-lite.git
+[submodule "libs/hana"]
+	path = libs/hana
+	url = git@github.com:boostorg/hana.git
+[submodule "libs/range-v3"]
+	path = libs/range-v3
+	url = git@github.com:ericniebler/range-v3.git
